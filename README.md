@@ -1,16 +1,28 @@
-### Hi there 👋
+```python
+print('Hello world!')
+```
+> python就是除了python之外全世界最好的语言！！
 
-<!--
-**AIboy996/AIboy996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me👋
+大家好这里是`AIboy`，~~AIgirl的哥哥是也~~（真的是♂啦）
+- 上海某高校，本科统计专业在读
+- 没车、没房、没对象
+- 梦想是成为`贰刺螈`和`程序猿`
+- 因为python爱上了撸码，越陷越深
+- 疯狂的jupyter爱好者，即使它不适合写很多东西
+- 数学(又菜又爱)玩家
 
-Here are some ideas to get you started:
+## Currently learning🐌
+- python
+- MySQL
+- R language
+- C language
+- LaTeX
+- html+css+javascript
+- Linux（？
+- SAS（🐕都不用，虽然我会用
+- git（喂还有人在github上吹嘘自己在学git的嘛
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> 总的来说就是见一点学一点，没事干了学一点，兴趣来了学一点，图一乐
+
+## 
