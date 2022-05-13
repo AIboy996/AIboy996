@@ -25,8 +25,8 @@ print('Hello world!')
 
 > 总的来说就是见一点学一点，没事干了学一点，兴趣来了学一点，图一乐
 
-## QQ me 🗨 
+## Contact me 🗨 
 
-- 🐧[QQ mail](2207854887@qq.com)
-- 🖳  [CSDN豆汁泡纳豆](https://blog.csdn.net/qq_47723068)
+- 🐧[email](2207854887@qq.com)
+- 🖳  [Blog](https://blog.csdn.net/qq_47723068)
 > 虽然很菜，有问必答
