@@ -27,6 +27,6 @@ print('Hello world!')
 
 ## Contact me 🗨 
 
-- 🐧[email](2207854887@qq.com)
-- 🖳  [Blog](https://blog.csdn.net/qq_47723068)
+- 🐧[QQ email](2207854887@qq.com)
+- 🖳 [CSDN Blog](https://blog.csdn.net/qq_47723068)
 > 虽然很菜，有问必答
