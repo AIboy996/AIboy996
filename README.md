@@ -1,7 +1,7 @@
 ```python
 print('Hello world!')
 ```
-> python就是除了python之外全世界最好的语言！！
+> python就是全世界最好的语言！！
 
 ## About me 👋
 大家好这里是`AIboy`，~~`AIgirl`的哥哥是也~~（真的是♂啦）
