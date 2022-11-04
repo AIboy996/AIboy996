@@ -1,5 +1,6 @@
 ```python
-print('Hello world!')
+while "False":
+  print('Hello world!')
 ```
 > python就是全世界最好的语言！！
 
