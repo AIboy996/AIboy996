@@ -28,4 +28,4 @@ Hi, 这里是`AIboy996`
 
 ## 🗨 
 
-- 🐧[mail@yangzhang.site](mailto:mail@yangzhang.site)
+- 邮箱：[mail@yangzhang.site](mailto:mail@yangzhang.site)
