@@ -28,4 +28,4 @@ Hi, 这里是`AIboy996`
 
 ## 🗨 
 
-- 🐧[QQ email](2207854887@qq.com)
+- 🐧[mail@yangzhang.site](mailto:mail@yangzhang.site)
