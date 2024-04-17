@@ -4,7 +4,7 @@ while "False":
 ```
 
 ##  👋
-个人主页：[yangzhang.site](https://yangzhang.site)
+Homepage: [yangzhang.site](https://yangzhang.site)
 
 ## 🗨 
-邮箱：[mail@yangzhang.site](mailto:mail@yangzhang.site)
+Mailbox: [mail@yangzhang.site](mailto:mail@yangzhang.site)
